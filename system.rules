@@ -1,6 +1,7 @@
 <genxml>
   <systemkey>rocketsystemwraptemplate</systemkey>
-  <systemname>RocketSystemWrapTemplate</systemname>
+	<basesystemkey>rocketdirectoryapi</basesystemkey>
+	<systemname>RocketSystemWrapTemplate</systemname>
   <databasetable>RocketSystemWrapTemplate</databasetable>
   <logtracking>False</logtracking>
   <active>True</active>
